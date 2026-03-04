@@ -3,7 +3,7 @@ permalink: /
 title: "About QIANSHI QI"
 author_profile: true
 header:
-  overlay_image: /images/banner.jpg
+  image: /images/banner.jpg
 redirect_from: 
   - /about/
   - /about.html
