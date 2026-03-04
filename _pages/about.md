@@ -4,7 +4,8 @@ title: "About QIANSHI QI"
 author_profile: true
 header:
   image: /images/banner.jpg
-redirect_from: 
+  image_description: "Banner"
+  teaser: /images/banner.jpgredirect_from: 
   - /about/
   - /about.html
 ---
